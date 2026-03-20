@@ -1,5 +1,5 @@
 # JOGO DO DADOS
-![](docs\JogoDosDados.ConsoleApp_tmjo2vVjDF.gif)
+![](docs/JogoDosDados.ConsoleApp_tmjo2vVjDF.gif)
 ## Introdução
 
 - Jogo de dados baseado em turnos, versus o computador (PC). No início é exibido um menu com as condições de vitória, o primeiro a atingir 30 ou mais vitórias, bônus especiais em algumas caixas.
