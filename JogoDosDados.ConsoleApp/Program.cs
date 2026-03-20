@@ -13,7 +13,6 @@ class Program
         PlayGame(limitGame, bonusAdvance, penalty);
 
     }
-
     static void PlayGame(int limitGame, int bonusAdvance, int penalty)
     {   
         GameIntro();
@@ -55,7 +54,6 @@ class Program
         Console.ReadKey();
 
     }
-
     static void TurnPlayer(string playerName)
     {
         Console.Clear();
@@ -132,7 +130,6 @@ class Program
 
         return p1Position;
     }
-
     static int Pc(int pcPosition, int limitGame, int bonusAdvance, int penalty)
     {
         do
@@ -190,8 +187,7 @@ class Program
         }while(true);
 
         return pcPosition;
-    }
-    
+    }  
     static bool PlayAgain()
     {
         Console.WriteLine("Do you want play again? Press: (Y/N)");
@@ -209,5 +205,4 @@ class Program
         return true;
  
     }
-
 }
